@@ -1,3 +1,7 @@
 home-credit-default-risk
 __pycache__/
 *.py[cod]
+lr_process
+processed
+submissions
+svm_process
